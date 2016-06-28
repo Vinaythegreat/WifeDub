@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WifeDub</string>
+    <string name="question_num_1">Question 1</string>
+    <string name="question_num_2">Question 2</string>
+    <string name="question_num_3">Question 3</string>
+    <string name="question_num_4">Question 4</string>
+    <string name="question_num_5">Question 5</string>
+    <string name="question_1">1. Android is based on Linux ?</string>
+    <string name="question_2">2. BlackBerry is owned by Microsoft ?</string>
+    <string name="question_3">3. Native IDE of Android is called ?</string>
+    <string name="ques3_option1">Android Studio</string>
+    <string name="ques3_option2">Visual Studio</string>
+    <string name="ques3_option3">Swift</string>
+    <string name="ques3_option4">None of the above</string>
+    <string name="question_4">4. Which of these are found inside the computer ?</string>
+    <string name="ques4_option1">RAM</string>
+    <string name="ques4_option2">Hard Disk</string>
+    <string name="ques4_option3">Processor</string>
+    <string name="ques4_option4">Black Board</string>
+    <string name="question_5">5. Name the Android version starts with the letter K ?</string>
+    <string name="question_6">6. How many days are there in a leap year ?</string>
+    <string name="ques6_option1">366</string>
+    <string name="ques6_option2">364</string>
+    <string name="ques6_option3">365</string>
+    <string name="ques6_option4">367</string>
+    <string name="radio_true">True</string>
+    <string name="radio_false">False</string>
+    <string name="submit">Submit</string>
+    <string name="hint">Enter your Answer</string>
+</resources>
